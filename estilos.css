@@ -22,18 +22,18 @@ input[type=file]{
 input[type=submit]:hover,
 input[type=button]:hover,
 input[type=file]:hover{
-    color: rgb(54, 120, 243);
+    color: rgb(25, 102, 247);
     background-color: #fff;
 }
 input[type=text]:invalid,
 input[type=date]:invalid,
 input[type=file]:invalid{
-    background-color: rgb(240, 74, 9);
+    background-color: rgb(224, 69, 7);
     color: black;
 }
 input[type=text]:valid,
 input[type=date]:valid,
 input[type=file]:valid{
-    background-color: rgb(125, 197, 140);
+    background-color: rgb(118, 194, 134);
     color: black;
 }
